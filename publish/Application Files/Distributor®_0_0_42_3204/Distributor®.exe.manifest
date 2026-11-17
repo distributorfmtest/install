@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Distributor®.exe" version="0.0.42.3202" publicKeyToken="afb9e8902f92bf64" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Distributor®.exe" version="0.0.42.3204" publicKeyToken="afb9e8902f92bf64" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="distributor.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Distributor®" version="0.0.42.3202" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Distributor®" version="0.0.42.3204" language="neutral" processorArchitecture="msil" />
     <commandLine file="Distributor®.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>veTODSCEBCiTLFM30yyhi8nv5AMS935BXPk7R5jYwXM=</dsig:DigestValue>
+        <dsig:DigestValue>l3v4ufyjeWOeGghNpJ00Mvz7RagNzVTPX1BonNynsHE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -116,13 +116,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Distributor®.exe" size="317328">
-      <assemblyIdentity name="Distributor®" version="0.0.42.3202" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="Distributor®" version="0.0.42.3204" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>keh2CJKfmVfdYCqPjT4LlidG8fVJqyi16PnThTGhQ90=</dsig:DigestValue>
+        <dsig:DigestValue>T+PaaON6x9oMEu/11d2QhuBNsfCETiKW3cSsfDeLsr4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -206,7 +206,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HyGwWswgtRPbi4gm3rwMYzI8SeA1/zr0jXS0FsuaAmg=</dsig:DigestValue>
+        <dsig:DigestValue>fyvK+KJsXMD/pEQ5rojRhWd06g5NmNR2lKkI5D8N0As=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1182,13 +1182,13 @@
       <dsig:DigestValue>02pT/02ORV5W4Ptxotaq1dPwRkX8n0Uuxu2ZgPRGNNU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Distributor.exe" size="9363706">
+  <file name="Distributor.exe" size="9363800">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>n27BOzXamaddZO5G/7k+e2HzZdBIzGlDDe+kgjA1nwg=</dsig:DigestValue>
+      <dsig:DigestValue>/SY0XR+IXWFAYTD+M8ZnmVa37DS+H6ithCb/+Bn15c8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="distributor.ico" size="39374">
@@ -2088,7 +2088,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Ce1Br6DT4Ynxk9ZICxzKny3oBqXIsG3ACst8BvdZ4Rg=</dsig:DigestValue>
+      <dsig:DigestValue>haQGJjs6ktYLTTFlX/QQLHgUgycAMkltOl/7onZk5ZY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELADM.bpl" size="538624">
@@ -2097,16 +2097,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>O+3nmZA1CveedIpdXe4FUKmKiUS+tL05uSBLmOh5O64=</dsig:DigestValue>
+      <dsig:DigestValue>2c9Mb8/TZo5HipOMFgU+Z/dP/3VMVEjce5j7vtniXVQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ELCLM.bpl" size="1028608">
+  <file name="ELCLM.bpl" size="1030144">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qoqH8akvwlii+wGtRDFzLPd1DDmCjYgiXCKfXmBYgZ0=</dsig:DigestValue>
+      <dsig:DigestValue>jiVMZQ2pH8/EVtWIh4pj5XPHDYnEH04t5wyD7g5Cb3Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELCRM.bpl" size="5534208">
@@ -2115,7 +2115,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aGZ58z5mwl7nRiawJkOnXG0h2GmTjZG4h7L0F15CzkM=</dsig:DigestValue>
+      <dsig:DigestValue>ucKuSH4iQix0RjMMY8vxvE03vAWnvkGF5HdYep97rjQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELDataAccess.bpl" size="403456">
@@ -2124,16 +2124,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>IFHajOa/u9d+GD0cQKipsN9MJPifdIDU0waP4sbebM8=</dsig:DigestValue>
+      <dsig:DigestValue>Eupr7/UzSfsF84etmKEqrfleyiJCN5bbfoID2uBNZ4M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ELDictionary.bpl" size="2633216">
+  <file name="ELDictionary.bpl" size="2642432">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hNhLmOJrb6fmNjpZmcjFkrjaKvMBndWKUnISu/dVBZM=</dsig:DigestValue>
+      <dsig:DigestValue>VHRmOg4ApmmrQnPHWY7SuxyvOcLoH/qGbfXANNMMb7s=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELERM.bpl" size="3251712">
@@ -2142,7 +2142,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Qs5a8HlLjJcYsCSsjwM9qmJRyluQyfWh0KY6QG7Keng=</dsig:DigestValue>
+      <dsig:DigestValue>p3hEPgpbZkob3F1tExfE2HFZCdJOy/3hZ6t3W1lgxlA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELFA.bpl" size="948224">
@@ -2151,7 +2151,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>G4ijurBPzpKL/XHmewxQWHcm0TUoxuNGq3P/725gNDQ=</dsig:DigestValue>
+      <dsig:DigestValue>7kpNciO7+ZRmDbnyNvj8H/poNXS2xjaA4VduDsW/oq0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELFIN.bpl" size="3862528">
@@ -2160,7 +2160,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9LIlh9bCh78nNgBXkZUK65OkUO45WTReT99Ur22uiaQ=</dsig:DigestValue>
+      <dsig:DigestValue>7LsaM28ZnwyygScN02stWoUvIpDdT+Atx/z4q1pyb1o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELGoodTurnover.bpl" size="236544">
@@ -2169,25 +2169,25 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sQCmirNl9fDoOprRQGFKeraZtPpATJ5DwXuSj4qTXQg=</dsig:DigestValue>
+      <dsig:DigestValue>BxCXk9XhZBa/ImZhVg2sfRifXYW8MXjLkuuAAtGxoTE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ELHR.bpl" size="1193984">
+  <file name="ELHR.bpl" size="1196544">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AokOH+m1TVsIc0Ui/5GXNBjNNdrRYZ0DpAwGYXRlXhs=</dsig:DigestValue>
+      <dsig:DigestValue>EAsEsxVgS50r68sRX73FYm9tGoZglmOBN4Npd9CSdfc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ELIPM.bpl" size="2971648">
+  <file name="ELIPM.bpl" size="2972160">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>jx4FxGVWdMdKJ6HUBuEbqJ3kOs/F4KkLWEwu5ez1PuI=</dsig:DigestValue>
+      <dsig:DigestValue>QzYi4aTucdkXJuDF+HEPSSnxiYCCq8Sl1Ho2s4eg94w=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELLFB.bpl" size="1415680">
@@ -2196,7 +2196,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aG1vXr/RWy/J9r7hpbhtoEgYGGWSc0jj5YuU9E4OfQM=</dsig:DigestValue>
+      <dsig:DigestValue>gv3YjGvqKixwtncrt12jyBAKBPclC++5Yifu9IkxK28=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELPAY.bpl" size="2230784">
@@ -2205,7 +2205,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aFUgUJOfGjQtYLIKurNN6yCnnKwJpUPaqttI1+M4hO4=</dsig:DigestValue>
+      <dsig:DigestValue>tLknD/DN1cnq3QfxfKT66pPfjOzlHeWJUZp6FC/afq0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELSales.bpl" size="5531648">
@@ -2214,7 +2214,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tgzEIDZsG4boiQ1RT5rAyVE/+q7cwnTz15lRSpK2A38=</dsig:DigestValue>
+      <dsig:DigestValue>immWqMjEqq7brE3QqozWB26Y34ZxBhLZyICHhNPRht8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELSCM.bpl" size="3764224">
@@ -2223,7 +2223,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xBVgGhoTMiTwdzcuJufO4lvHu0A5ETcj0C3Zr+C1F/8=</dsig:DigestValue>
+      <dsig:DigestValue>gcRtDJ5rd9WfaeCPQ/5fGMzrkL1EZUiU0FvOUZ3+kjU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELSetup.bpl" size="572416">
@@ -2232,7 +2232,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>r5KMvATpXObE42okgb6EX/6ElogvYGoPUjF3+MmTMns=</dsig:DigestValue>
+      <dsig:DigestValue>/ZdksTlftXYQ+ibLByShz6cNNcCersxCBNlFyXb3p7E=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELsysData.bpl" size="45056">
@@ -2241,7 +2241,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>cwapl52/E/7I4pQe3Wig1GR2lEOr3MDqCMJGFfjYzUg=</dsig:DigestValue>
+      <dsig:DigestValue>FCjcSZWYroVbulaeT1ZMrF4ER6hhEngRGCU6KEwFYDE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELSysForms.bpl" size="41472">
@@ -2250,7 +2250,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rftL2JZK6pzb2sc0rqTYMkTcutGSwhhxVZ5YiLsug3M=</dsig:DigestValue>
+      <dsig:DigestValue>gY/93on6I2Zj+EW1ihJr14mJ57w9pfvdlzzl5Vt+fcQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELSystem.bpl" size="2620416">
@@ -2259,7 +2259,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>leL0z9T26TEmhQjzCN9PMB+qytTTyiDCsaXIzQbCRQU=</dsig:DigestValue>
+      <dsig:DigestValue>/OcjzCs6Q41Ki5qTurGHZGm5gEZsVuzl51q2lpJB0S0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELTEQ.bpl" size="1798144">
@@ -2268,7 +2268,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KjdimgfvHNTj/+KLp4HGHsvjQg9IHGWQt14NQ3uOzX0=</dsig:DigestValue>
+      <dsig:DigestValue>7t09D+hsvaFS7RgIgmbe2Ej4xmw3k8IhTW3VeSi6Luo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELThirdParty.bpl" size="162304">
@@ -2277,7 +2277,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RysusCKPEkJE5WObe+aSJDDFhBgWl9xldU1C6f7Pdik=</dsig:DigestValue>
+      <dsig:DigestValue>K5LbgojK8BbrjDqZj7z75iAUGIK1KcH+25T4PbsQ/GY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELUIControls.bpl" size="1112064">
@@ -2286,7 +2286,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VMkLsFNJnQTyNOp6RkG3CYMCNM+8Xzr/RVOh14YMBFE=</dsig:DigestValue>
+      <dsig:DigestValue>1Hhb/3zBV0PUiQYOtK9lCU3abvXN6i+xt7R92yScqQA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ELUtils.bpl" size="458752">
@@ -2295,7 +2295,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>RruE8tWZNDCCwMpCFJBfD1fIHd71kvaLRJBaVx1qp94=</dsig:DigestValue>
+      <dsig:DigestValue>UkXN9rVhG4DLfRXQh+/3gqoXT1EoRcBCe7okXQL+/+0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FPL.DLL" size="62464">
@@ -2784,4 +2784,4 @@
       <dsig:DigestValue>Qb/YRCixEXfDZJ5hJ45JeaaWG0/VHWXpKur1tcT7wYQ=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=DistributorClickOnceApp" issuerKeyHash="e4e61341e9b49d0dd079369ba976ad7baf128968" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Kv8SqPpOdejFEBQHTxLU55zP/LhObmAwseq+yqip2Yw=</DigestValue></Reference></SignedInfo><SignatureValue>dh3gCtFciNOqsVA1Cb06aqnMG5tfhnS0SkBCWC702by/EsBRDvicudxL+yuVoMB+eEC3Fv5iZ6JPogVTsbr7/q8yRCwIgxKAUwoTdcu7h9SOu8BF/xos1jgnWBFJ6TAj4S7eLOxTT44ZD7gqOrWLzIsMBbuR3Je/NhY0chW5mEaKW3t5YrHWP4z+uwKPs5tDGT6Z+GI3bGdApbQ3192PgYZIYjwufQV4R4NXrpG8pjpX0LIj+wT6WGgQVLofpwMd6fAMRoP52lYzrA2RY340GihPTUbBSc2wK5vkInnAOKR+KsRhui+eVLKd6Nr7VW4eBbEV3RM9WO/FauDWg0E0HA==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8cd9a9a8cabeeab130606e4eb8fccf9ce7d4124f071410c5e8754efaa812ff2a" Description="" Url=""><as:assemblyIdentity name="Distributor®.exe" version="0.0.42.3202" publicKeyToken="afb9e8902f92bf64" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DistributorClickOnceApp</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Ii0e1nS2wpjPvkSVbzQ02/q1Lr4FhOQnXh19n7gilTI=</DigestValue></Reference></SignedInfo><SignatureValue>WqkVXeynj/I0OjKTdkeoaS3ucfSJlpi89Tn9gG2rhjgTTiYFqCgE9ORR0amkAHTLV5xDcenso0mz2i3H02BufoCl+AQBNBqIcYOMqHf/YmrjsazdNlUwCLkq8vaX3mierImWyBD5zGkh/RiksoAJDi4G3XA35ujUNXWuiJ52pTYulKX205oGruxJv+lgG3k/visTsOW4EuwbceVYP6w1exNyadE/AnqoRWRmskNq1/qyeGUW3wYyWGuLhuHXCyUH5MxR0bapDo7EWUHtOF7b5raAdd/Kix9gnSgg0COLHc5pi2UcTn7cxENYWAC0TYEgXdzjLClva20Kn6gcw3bVKQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDFDCCAfygAwIBAgIQNfzUBg9Eu5pN0uP74y13STANBgkqhkiG9w0BAQsFADAiMSAwHgYDVQQDDBdEaXN0cmlidXRvckNsaWNrT25jZUFwcDAeFw0yNjExMTExNTA2MTJaFw0yOTEyMzEyMjAwMDBaMCIxIDAeBgNVBAMMF0Rpc3RyaWJ1dG9yQ2xpY2tPbmNlQXBwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQIDAQABo0YwRDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYEFOTmE0HptJ0N0Hk2m6l2rXuvEoloMA0GCSqGSIb3DQEBCwUAA4IBAQBx6Wd73HdyEN4hIT+vpu7RkbceUrZ267bJv6MDsCvGXH+fQbCl4trVR8QbYZ5/ZXWBgWzSzJ36TgXNRgp0hl7iL83MT28g6muXGpc23BmNSI6YTMM9o88OVOL2xYkGoSCbRiawXR9HIbtWZCh1p4zNg9nBUhrh8TnmhBie8Vf5o401MyZ7t2Va++8Zeub2k3BaHRaxcknCCx6R3alt3dh03Wp8QNjwMySnKM8QkwTC5qB8g/G04amOwnS7iYtetllyC1dBI2GNxloyMeu3hI8LVOK1kYID6qqMxWc8fkr/4ErlMXeeeIIzRxx6y3E3PPDgisveazLQmxGrwbUzrZuE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DistributorClickOnceApp" issuerKeyHash="e4e61341e9b49d0dd079369ba976ad7baf128968" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>HBn5AyQ4GxIxl89f1KKWxxukGXA73/uhfZ/+wodpknc=</DigestValue></Reference></SignedInfo><SignatureValue>pYcf6PghVvSOUx4O+ErMlwRZvDH9FhjrJVVdfpD4K+9ZE5tkw2YAvAeRadqTko5iiyeOa5ywCBnEyY+NaOKIJinVW4aTOm2ltjBn+5ugebbS5UXXxoR6iJqqz0hC36/lD+sYXa3xitlCP9Y21s+FLQjkN08+3iL5ByVIVOIBsXLEsx8jt4epS5xr1cUT7pFrAXeJ/SGKfmp3vrcdUvseXSKbClelB3LQsGppqc0lxtaqB7nzK8HK+sSNS4XvDEvFzhTFHRpzJDnrxegEBIBOxoym0pOtyduFmwms85ZyK4n7046M1TorRaE6UmC6txXWe86s9l2a8LYfmVsCdScvVg==</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="77926987c2fe9f7da1fbdf3b7019a41bc796a2d45fcf9731121b382403f9191c" Description="" Url=""><as:assemblyIdentity name="Distributor®.exe" version="0.0.42.3204" publicKeyToken="afb9e8902f92bf64" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DistributorClickOnceApp</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>eEPHUJqwvItuIgR0EumTZ9F+zUqHwv3D0zZHDbnfsHY=</DigestValue></Reference></SignedInfo><SignatureValue>dbwZQNTXu7axorYYjFC+sr6Ta4Rix+JHYLP2CaiMaodWnNJiwTOvZAQ0bx4/LjL+qsSzwn8Qm3a3eKasz34fU9uXAOXZI2DSWMg1JchZhqFph1LQLHNtP3ao6zfJu1PGa2TSXx7o+j1S+J7xcC7nRm2/Fxj7zGX7vlb75bUhx8ue1RiO3JmcQgRhispMDs9al9yHWjZGNa6AuhxWZFPukze9SsX2y+emuVs7aQd/1ct514Eq6MKhELVT51/adbphQH5+gUCr0KN4t+pCCgBVdLM0sDK2SHxu9LMqGVaiaaRxx5S8MlIWr+BZwGjC5rJ5fcBWTS90AeWax3arKWOZGw==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIDFDCCAfygAwIBAgIQNfzUBg9Eu5pN0uP74y13STANBgkqhkiG9w0BAQsFADAiMSAwHgYDVQQDDBdEaXN0cmlidXRvckNsaWNrT25jZUFwcDAeFw0yNjExMTExNTA2MTJaFw0yOTEyMzEyMjAwMDBaMCIxIDAeBgNVBAMMF0Rpc3RyaWJ1dG9yQ2xpY2tPbmNlQXBwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArw3D4VuWDA6x9fWse6GlXorDZZY4QA3L8uEdhIzjpewrxAC9u2MEx6XpZXvBm9cAkmKotE4Yq9DEJpyOOVHSZBcKo+ZGQhrNAzuRs6HHWrj80PRcUxSuueiVU1mydiMWWE7eXdn0zyo87ToKVvB5eRosxBXo5V2ItXvkUV1j1jcgSbnUHHlaa95xM3sFH90mtTjTioJNrpdWGzwub1S8bmf7MNDviErTPXLOGCqPzlYnl6zoH5oPz0hul3FX6uKH4k5ajTvM579X4bZ0tSUP1a7Grg6ERKfCW2H4rP/qdqti7smc1dw3zVpi88kIcZ5r3KsFXUR4VPSUrdwcl/R1yQIDAQABo0YwRDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwHQYDVR0OBBYEFOTmE0HptJ0N0Hk2m6l2rXuvEoloMA0GCSqGSIb3DQEBCwUAA4IBAQBx6Wd73HdyEN4hIT+vpu7RkbceUrZ267bJv6MDsCvGXH+fQbCl4trVR8QbYZ5/ZXWBgWzSzJ36TgXNRgp0hl7iL83MT28g6muXGpc23BmNSI6YTMM9o88OVOL2xYkGoSCbRiawXR9HIbtWZCh1p4zNg9nBUhrh8TnmhBie8Vf5o401MyZ7t2Va++8Zeub2k3BaHRaxcknCCx6R3alt3dh03Wp8QNjwMySnKM8QkwTC5qB8g/G04amOwnS7iYtetllyC1dBI2GNxloyMeu3hI8LVOK1kYID6qqMxWc8fkr/4ErlMXeeeIIzRxx6y3E3PPDgisveazLQmxGrwbUzrZuE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
